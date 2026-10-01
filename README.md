@@ -269,7 +269,7 @@ Stuart H. Sul, Nash Brown, Henry Wildermuth, William Lin, Federico Cassano, and 
 Or in BibTeX:
 
 ```bibtex
-@misc{sul2026mok,
+@article{sul2026mok,
   title   = {Mixture-of-Kittens: {MoE} Megakernel for {NVL72s}},
   author  = {Stuart H. Sul and Nash Brown and Henry Wildermuth and William Lin and Federico Cassano and Christopher Ré},
   year    = {2026},
